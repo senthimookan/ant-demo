@@ -9,7 +9,7 @@
 <body>
 User Details
 <hr>
-User Name   : ${user.name} <br/>
+Employee Name   : ${user.name} <br/>
 Gender      : ${user.gender} <br/>
 Country     : ${user.country} <br/>
 About You   : ${user.aboutYou} <br/>
