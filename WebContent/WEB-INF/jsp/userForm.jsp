@@ -12,15 +12,15 @@
 <form:form method="POST" commandName="user">
 	<table>
 		<tr>
-			<td>Employee Name :</td>
+			<td>Employee Name3 :</td>
 			<td><form:input path="name" /></td>
 		</tr>
 		<tr>
-			<td>Password :</td>
+			<td>Password3 :</td>
 			<td><form:password path="password" /></td>
 		</tr>
 		<tr>
-			<td>Gender :</td>
+			<td>Gender3 :</td>
 			<td><form:radiobutton path="gender" value="M" label="M" /> 
 				<form:radiobutton path="gender" value="F" label="F" /></td>
 		</tr>
