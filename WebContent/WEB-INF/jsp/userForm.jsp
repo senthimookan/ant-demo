@@ -20,7 +20,7 @@
 			<td><form:password path="password" /></td>
 		</tr>
 		<tr>
-			<td>Gender6 :</td>
+			<td>Gender :</td>
 			<td><form:radiobutton path="gender" value="M" label="M" /> 
 				<form:radiobutton path="gender" value="F" label="F" /></td>
 		</tr>
